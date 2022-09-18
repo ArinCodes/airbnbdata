@@ -1,0 +1,42 @@
+[
+    {
+       "img" : "https://links.papareact.com/5j2",
+       "location" : "London" ,
+       "distance" :  "45 -minute drive"
+    },
+    {
+        "img" : "https://links.papareact.com/lto",
+        "location" : "Manchester" ,
+        "distance" :  "4.5-hour drive"
+     },
+     {
+        "img" : "https://links.papareact.com/4Qm",
+        "location" : "Liverpool" ,
+        "distance" :  "4.5-hour drive"
+     },
+     {
+        "img" : "https://links.papareact.com/msp",
+        "location" : "Yorl" ,
+        "distance" :  "4-hour drive"
+     },
+     {
+        "img" : "https://links.papareact.com/2k3",
+        "location" : "Cardiff" ,
+        "distance" :  "45 -minute drive"
+     },
+     {
+        "img" : "https://links.papareact.com/ymx",
+        "location" : "Birkenhead" ,
+        "distance" :  "4.5-hour drive"
+     },
+     {
+        "img" : "https://links.papareact.com/kji",
+        "location" : "Newquay" ,
+        "distance" :  "6-hour drive "
+     },
+     {
+        "img" : "https://links.papareact.com/4lm",
+        "location" : "Hove" ,
+        "distance" :  "2-hour drive"
+     }
+    ]
