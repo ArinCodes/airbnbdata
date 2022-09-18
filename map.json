@@ -1,37 +1,37 @@
 [
     {
-        "latitude" : "51.521245"  ,
-         "longitude" : "-0.109889" ,
+        "latitude" : 51.521245  ,
+         "longitude" : -0.109889 ,
          "title" : "5 Star Luxury Apartment"
     } ,
     {
-        "latitude" : "51.51401"  ,
-         "longitude" : "-0.094116" ,
+        "latitude" : 51.51401 ,
+         "longitude" : -0.094116 ,
          "title" : "The Blue Room In London"
     },
     {
-        "latitude" :  "51.472618" ,
-         "longitude" : "-0.069961" ,
+        "latitude" :  51.472618 ,
+         "longitude" : -0.069961 ,
          "title" : "30 mins to Oxford Street, Excel London"
     },
     {
-        "latitude" : "51.510794"  ,
-         "longitude" : "-0.08472" ,
+        "latitude" : 51.510794  ,
+         "longitude" : -0.08472 ,
          "title" : "Spacious Peaceful Modern Bedroom"
     },
     {
-        "latitude" : "51.521916" ,
-         "longitude" : "-0.135638" ,
+        "latitude" : 51.521916 ,
+         "longitude" : -0.135638 ,
          "title" : "London Studio Apartments"
     },
     {
-        "latitude" :  "51.48695",
-         "longitude" :  "-0.095091" ,
+        "latitude" :  51.48695,
+         "longitude" :  -0.095091 ,
          "title" : "Independent luxury studio apartment"
     } ,
     {
-        "latitude" : "51.5421655" ,
-         "longitude" : "-0.0022275" ,
+        "latitude" : 51.5421655 ,
+         "longitude" : -0.0022275 ,
          "title" : "Stay at this spacious Edwardian House"
     }
 ]
