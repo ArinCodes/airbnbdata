@@ -5,7 +5,7 @@
        "distance" :  "45 -minute drive"
     },
     {
-        "img" : "https://links.papareact.com/lto",
+        "img" : "https://links.papareact.com/1to",
         "location" : "Manchester" ,
         "distance" :  "4.5-hour drive"
      },
@@ -16,7 +16,7 @@
      },
      {
         "img" : "https://links.papareact.com/msp",
-        "location" : "Yorl" ,
+        "location" : "York" ,
         "distance" :  "4-hour drive"
      },
      {
@@ -35,7 +35,7 @@
         "distance" :  "6-hour drive "
      },
      {
-        "img" : "https://links.papareact.com/4lm",
+        "img" : "https://links.papareact.com/41m",
         "location" : "Hove" ,
         "distance" :  "2-hour drive"
      }
